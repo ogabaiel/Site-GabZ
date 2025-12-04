@@ -1,0 +1,51 @@
+/* Colors
+
+#000080 Azul Marinho
+#3C91E6 Azul Claro
+#FFA630 Laranja
+#F6F8FF Branco
+#000500 Preto
+#
+#
+#
+#
+#
+#
+*/
+
+/* Common Itens */
+body{
+    background-color: #000080;
+    color: #F6F8FF;
+    background-image: url("images/bgimage.png");
+    background-size: cover;
+}
+
+.title_container{
+    text-align: center;
+    margin-top: 1px;
+    font-size:30px;
+}
+
+a /*Links*/ {
+    font-style: arial, helvetica, sans-serif;
+    color: #FFA630;
+}
+
+.subsubtitle_container{
+    font-style: arial, helvetica, sans-serif;
+    font-weight: bold;
+    text-indent: 0.2cm;
+}
+
+ul{
+  list-style-position: inside;
+  list-style-image: url('images/listicon.png');
+  }
+
+li{
+  font-style: arial, helvetica, sans-serif;
+  margin-bottom: 0px;
+}
+
+/* Specific Itens */
