@@ -21,7 +21,7 @@ body{
 }
 
 .title_container{
-    font-size:50px;
+    font-size:30px;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -29,12 +29,12 @@ body{
 
 .title_h1{
   color:#F6FFF8;
-  text-decoration: none;
+  text-deco ration: none;
 }
 
 .subtitle_container{
     font-style: normal;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     text-indent: 0.4cm;
     margin-top: 10px;
@@ -55,7 +55,7 @@ a /*Links*/ {
 
 .website_intro{
     font-style: normal;
-    font-size: 30px;
+    font-size: 25px;
     text-indent: 0.4cm;
     margin-top: 10px;
     margin-bottom: 15px;
@@ -71,7 +71,7 @@ ul{
 
 li{
   font-style: normal;
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: 0px;
 }
 
@@ -82,12 +82,14 @@ li{
     margin-bottom: 1px;
 }
 
+.social_media_l_icon{
+    text-decoration: none; 
+}
+
 .social_media_icon{
     width: 50px;
     height: 50px;
-    margin: 50px 15px 0px 10px;
-    text-decoration: none;
-    object-fit: cover;
+    margin: 30px 0px 0px 20px;
 }
 
 .footer_container{
