@@ -1,0 +1,108 @@
+/* Colors
+
+#000500 Black
+#0B0033 Dark Amethyst
+#080357 Deep Twilight
+#2978A0 Cerulean
+#3C91E6 Bright Ocean
+#685044 Ash Brown
+#F26419 Blaze Orange
+#FA7921 Pumpkin Spice
+#EAE0CC Sand Dune
+#F6FFF8 Mint Cream
+*/
+
+/* Common Itens */
+body{
+    background-color: #080357;
+    color: #F6FFF8;
+    background-image: url("images/bgimage.png");
+    background-size: cover;
+}
+
+.title_container{
+    font-size:30px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.title_h1{
+  color:#F6FFF8;
+  text-deco ration: none;
+}
+
+.subtitle_container{
+    font-style: normal;
+    font-size: 40px;
+    font-weight: bold;
+    text-indent: 0.4cm;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+a /*Links*/ {
+    font-style: normal;
+}
+
+.subsubtitle_container{
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+    text-indent: 0.3cm;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.website_intro{
+    font-style: normal;
+    font-size: 25px;
+    text-indent: 0.4cm;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+ul{
+  list-style-position: inside;
+  list-style-image: url('images/listicon.png');
+  margin-top: 5px;
+  margin-bottom: 2px;
+  float: center;
+  }
+
+li{
+  font-style: normal;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+
+.social_media_container{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+.social_media_l_icon{
+    text-decoration: none; 
+}
+
+.social_media_icon{
+    width: 50px;
+    height: 50px;
+    margin: 30px 0px 0px 20px;
+}
+
+.footer_container{
+    font-size: 15px;
+    text-align: center;
+    color: #EAE0CC;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Specific Itens */
+
+.pokemon_site{
+    color: #F6FFF8;
+    text-decoration: none;
+}
